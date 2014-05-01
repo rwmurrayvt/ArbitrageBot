@@ -1,7 +1,6 @@
 ArbitrageBot
 ============
 
-Plethora of code related to creating a triangular arbitrage bot.
+Code relating to trading bot for CEX.io exchange. Abandoned as a result of 0.2% transaction free added to the exchange.
 
-
-Yes, I know the code is messy. :)
+:'( R.I.P. ~$4 a day
